@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 
 const Profile = ({
     avatar,
-    username = 'unnamed',
+    username = 'anonymous',
     tag,
     location,
     followers,
