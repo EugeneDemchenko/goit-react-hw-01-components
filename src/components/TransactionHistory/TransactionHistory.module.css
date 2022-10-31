@@ -1,0 +1,16 @@
+.section {
+    width: 480px;
+    /* border: 2px solid black; */
+    margin: 0 auto;
+}
+.transaction_history {
+    width: 100%;
+    font-size: 20px;
+}
+.table_head {
+    background-color: aqua;
+}
+.table_row {
+    background-color: bisque;
+    outline: 1px solid black;
+}

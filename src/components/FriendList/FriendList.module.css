@@ -1,0 +1,35 @@
+.section {
+    width: 502px;
+    margin: 20px auto;
+    /* outline: 2px solid blue; */
+}
+.friend_list {
+    list-style: none;
+    padding: 0;
+}
+.item {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 3px 5px 15px 0px rgba(0, 0, 0, 0.75);
+}
+.status {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: red;
+}
+.isOnline {
+    background-color: green;
+}
+.avatar {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+.name {
+    font-size: 20px;
+}

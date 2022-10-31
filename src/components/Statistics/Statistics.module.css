@@ -1,0 +1,33 @@
+.statistics {
+    width: 502px;
+    margin: 0 auto;
+    outline: 2px solid burlywood;
+}
+.title {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    margin-top: 10px;
+}
+.statlist {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    margin-bottom: 0;
+}
+.item {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    text-align: center;
+}
+.label {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 5px;
+}
+.percentage {
+    font-size: 20px;
+    color: whitesmoke;
+}
